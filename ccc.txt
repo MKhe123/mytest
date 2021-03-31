@@ -1,8 +1,7 @@
 cccccccc
 
-<<<<<<< HEAD
+
 
 Git3 message
-=======
+
 Git2 message
->>>>>>> 7452fe1c3e69a34f76ff74a91af436b83d3b15ca
